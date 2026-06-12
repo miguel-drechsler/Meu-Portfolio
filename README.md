@@ -23,19 +23,6 @@ Este portfolio foi desenvolvido com o objetivo de showcasar meus projetos e habi
 - Navegação fluida e experiência do usuário otimizada
 - Código bem organizado e estruturado
 
-## 📂 Estrutura do Projeto
-
-```
-webportfolio/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-└── assets/
-    └── (imagens e recursos)
-```
-
 ## 🎯 Objetivo
 
 Demonstrar habilidades práticas em desenvolvimento web frontend, incluindo:
