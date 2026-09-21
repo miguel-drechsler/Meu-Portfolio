@@ -279,10 +279,11 @@ body::after {
 .service-link { font-family: var(--font-head); font-size: 0.8rem; font-weight: 700; color: var(--orange); text-transform: uppercase; }
 
 .featured-header { display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 3rem; }
-.featured-grid { display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 2rem; }
+.featured-grid { display: grid; grid-template-columns: 1fr; gap: 2rem; }
 .featured-card { display: flex; flex-direction: column; height: 100%; }
 .featured-img { height: 240px; background: var(--surface-2); position: relative; overflow: hidden; }
 .img-placeholder { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; font-size: 4rem; background: linear-gradient(135deg, var(--bg-3), var(--surface-2)); }
+.img-placeholder img { max-height: 100%; width: auto; object-fit: contain; }
 .featured-overlay { position: absolute; inset: 0; background: rgba(10,10,10,0.8); display: flex; align-items: center; justify-content: center; opacity: 0; transition: opacity var(--transition); }
 .featured-card:hover .featured-overlay { opacity: 1; }
 .featured-info { padding: 2rem; display: flex; flex-direction: column; gap: 0.8rem; }
