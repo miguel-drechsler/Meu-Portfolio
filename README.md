@@ -4,7 +4,7 @@ Bem-vindo ao meu portfolio! Este é um projeto pessoal onde apresento meus traba
 
 ## 📱 Acesse o Portfolio
 
-Visite meu portfolio online: [[https://miguel-drechsler.github.io/webportfolio/](https://miguel-drechsler.github.io/webportfolio/)
+Visite meu portfolio online: [(https://miguel-drechsler.github.io/webportfolio/)
 ](https://miguel-drechsler.github.io/Meu-Portfolio/)
 ## 🛠️ Tecnologias Utilizadas
 
